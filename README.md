@@ -1,6 +1,10 @@
 # BJTU-GDI
 Game Design Implémentation
 
+### OWNER ###
+
+15129003 - Kevin Fandi
+
 ### TITLE ###
 
 Boomer the Warrior.
