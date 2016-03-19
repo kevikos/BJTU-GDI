@@ -7,7 +7,7 @@ Game Design Implémentation
 
 ### TITLE ###
 
-Boomer the Warrior.
+Fool Ozas, the Destroyer.
 
 ### MENU ###
 
